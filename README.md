@@ -1,5 +1,5 @@
 This is a Python script that solves the wave equation in two dimensions:\
-$$    \frac{\partial^2 u}{\partial t^2} = c^2(\frac{\partial^2 u}{\partial x^2} + \frac{\partial^2 u}{\partial y^2})$$\
+$$\frac{\partial^2 u}{\partial t^2} = c^2(\frac{\partial^2 u}{\partial x^2} + \frac{\partial^2 u}{\partial y^2})$$\
 Where c is a user defined field. This allows for fast simulations of waves passing through different mediums.
 
 The second file, waveTest.py, is an example of the simulation being used and displayed. It contains four different parts:
